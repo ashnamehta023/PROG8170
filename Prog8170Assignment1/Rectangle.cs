@@ -12,7 +12,7 @@ namespace Prog8170Assignment1
         public Rectangle()
         {
             this.length = 1;
-            this.width = 1;
+            this.width =  1;
         }
 
         public Rectangle(int length, int width)
