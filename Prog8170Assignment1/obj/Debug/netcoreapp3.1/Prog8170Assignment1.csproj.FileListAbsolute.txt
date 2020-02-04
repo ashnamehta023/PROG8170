@@ -1,0 +1,11 @@
+C:\Users\ashna\source\repos\Prog8170Assignment1\Prog8170Assignment1\bin\Debug\netcoreapp3.1\Prog8170Assignment1.exe
+C:\Users\ashna\source\repos\Prog8170Assignment1\Prog8170Assignment1\bin\Debug\netcoreapp3.1\Prog8170Assignment1.deps.json
+C:\Users\ashna\source\repos\Prog8170Assignment1\Prog8170Assignment1\bin\Debug\netcoreapp3.1\Prog8170Assignment1.runtimeconfig.json
+C:\Users\ashna\source\repos\Prog8170Assignment1\Prog8170Assignment1\bin\Debug\netcoreapp3.1\Prog8170Assignment1.runtimeconfig.dev.json
+C:\Users\ashna\source\repos\Prog8170Assignment1\Prog8170Assignment1\bin\Debug\netcoreapp3.1\Prog8170Assignment1.dll
+C:\Users\ashna\source\repos\Prog8170Assignment1\Prog8170Assignment1\bin\Debug\netcoreapp3.1\Prog8170Assignment1.pdb
+C:\Users\ashna\source\repos\Prog8170Assignment1\Prog8170Assignment1\obj\Debug\netcoreapp3.1\Prog8170Assignment1.csprojAssemblyReference.cache
+C:\Users\ashna\source\repos\Prog8170Assignment1\Prog8170Assignment1\obj\Debug\netcoreapp3.1\Prog8170Assignment1.AssemblyInfoInputs.cache
+C:\Users\ashna\source\repos\Prog8170Assignment1\Prog8170Assignment1\obj\Debug\netcoreapp3.1\Prog8170Assignment1.AssemblyInfo.cs
+C:\Users\ashna\source\repos\Prog8170Assignment1\Prog8170Assignment1\obj\Debug\netcoreapp3.1\Prog8170Assignment1.dll
+C:\Users\ashna\source\repos\Prog8170Assignment1\Prog8170Assignment1\obj\Debug\netcoreapp3.1\Prog8170Assignment1.pdb
