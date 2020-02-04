@@ -6,22 +6,30 @@ namespace Prog8170Assignment1
     {
         static void Main(string[] args)
         {
-            uint length;
-            uint width;
+            int length, width;
+            string inputLength, inputWidth;
 
-            do
+            try
             {
-                Console.WriteLine("Enter Length: ");
-                length = uint.Parse(Console.ReadLine());
-            }
-            while(length > 0);
+                do
+                {
+                    Console.WriteLine("Enter Length: ");
+                    inputLength = Console.ReadLine();
+                }
+                while (!int.TryParse(inputLength, out length) || length < 1);
 
-            do
-            {
-                Console.WriteLine("Enter Width: ");
-                width = uint.Parse(Console.ReadLine());
+                do
+                {
+                    Console.WriteLine("Enter Width: ");
+                    inputWidth = Console.ReadLine();
+                }
+                while (!int.TryParse(inputWidth, out width) || width < 1);
             }
-            while (width > 0);
+
+            catch(Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
 
             Console.ReadLine();
 
