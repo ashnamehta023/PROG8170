@@ -9,3 +9,11 @@ C:\Users\ashna\source\repos\Prog8170Assignment1\Prog8170Assignment1\obj\Debug\ne
 C:\Users\ashna\source\repos\Prog8170Assignment1\Prog8170Assignment1\obj\Debug\netcoreapp3.1\Prog8170Assignment1.AssemblyInfo.cs
 C:\Users\ashna\source\repos\Prog8170Assignment1\Prog8170Assignment1\obj\Debug\netcoreapp3.1\Prog8170Assignment1.dll
 C:\Users\ashna\source\repos\Prog8170Assignment1\Prog8170Assignment1\obj\Debug\netcoreapp3.1\Prog8170Assignment1.pdb
+C:\Users\ashna\source\repos\Prog8170Assignment1\Prog8170Assignment1\obj\Debug\netcoreapp3.1\Prog8170Assignment1.csproj.CopyComplete
+C:\Users\ashna\source\repos\Prog8170Assignment1\Prog8170Assignment1\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\ashna\source\repos\Prog8170Assignment1\Prog8170Assignment1\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\ashna\source\repos\Prog8170Assignment1\Prog8170Assignment1\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\ashna\source\repos\Prog8170Assignment1\Prog8170Assignment1\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\ashna\source\repos\Prog8170Assignment1\Prog8170Assignment1\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\ashna\source\repos\Prog8170Assignment1\Prog8170Assignment1\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\ashna\source\repos\Prog8170Assignment1\Prog8170Assignment1\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
