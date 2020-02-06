@@ -11,8 +11,8 @@ namespace Prog8170Assignment1
 
             try
             {
+                //getting legth and width
                 SetLengthFromUser();
-
                 SetWidthFromUser();                
 
                 //declaring object using the length and width user provides.
